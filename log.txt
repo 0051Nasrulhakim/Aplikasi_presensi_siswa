@@ -1,0 +1,14 @@
+coder : nasrul hakim
+last update : 21 maret 2023
+last update : 27+1 = 28 maret 2023
+last update : 29 maret 2023
+last update : 30 maret 2023 (
+        - buat kolom di db tabel presensi nama kolom = keterangan. => jenis data enum('-', 'presensi_terlambat'),
+        - buat di model presensi tambahkan field keterangan
+    )
+last update : 04 April 2023 (
+    - penambahan halaman informasi pada guru
+    - penambahan halaman informasi pada siswa
+)
+
+last update 10 april (export pdf)
